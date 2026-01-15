@@ -8,7 +8,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-# Hi, I'm Madhur 👋
+# Hi, I'm Madhur
 
 I'm a first-year undergraduate exploring the intersection of **Machine Learning**, **Data Science**, and **Electrical & Electronic Systems**.  
 I enjoy building things from first principles, with a strong inclination towards **mathematical reasoning** and **problem-solving**.
