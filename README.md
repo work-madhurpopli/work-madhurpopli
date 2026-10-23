@@ -10,7 +10,7 @@
 
 # Hi, I'm Madhur
 
-I'm a first-year undergraduate exploring the intersection of **Machine Learning**, **Data Science**, and **Electrical & Electronic Systems**.  
+I'm a sophomore exploring the intersection of **Machine Learning**, **Data Science**, and **Electrical & Electronic Systems**.  
 I enjoy building things from first principles, with a strong inclination towards **mathematical reasoning** and **problem-solving**.
 
 This GitHub is a place for experiments, learning projects, and ideas-in-progress.
